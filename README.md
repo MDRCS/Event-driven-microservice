@@ -2,19 +2,6 @@
 
 This repository holds a simple event-driven microservice
 showcase implementing the architecture style
-described by Russ Miles in
-[Antifragile Software](https://leanpub.com/antifragilesoftware).
-
-The microservices are part of an imaginary bookshelf
-system. We've got views that allow you to query for
-specific answers against your bookshelf (like what
-are the last read books), but also aggregates that
-handle commands (such as, add a new book).
-
-Note, these examples are not a library nor a framework
-you should copy/paste as-is. They merely translate
-one approach for event-driven microservices and,
-hopefully, will inspire you.
 
 [![Build Status](https://travis-ci.org/Lawouach/event-driven-microservice.svg?branch=master)](https://travis-ci.org/Lawouach/event-driven-microservice)
 
